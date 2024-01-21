@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <div class="curriculum">
+      <div class="div">
+        <div class="frame">
+          <img class="email" src="../../../assets/email.svg" />
+          <img class="phone" src="../../../assets/phone.svg" />
+          <img class="facebook" src="../../../assets/facebook.svg" />
+          <img class="git-hub" src="../../../assets/github.png" />
+          <img class="clock" src="../../../assets/clock.png" />
+          <img class="earth-planet" src="../../../assets/earth-planet.png" />
+          <img
+            class="language-skill"
+            src="../../../assets/language-skill.png"
+          />
+          
+          <a
+            href="mailto:intimartinez@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><div class="text-wrapper">
+              intimartinezfloresicube@gmail.com
+            </div></a
+          >
+          <div class="frame-2">
+            <img class="destroyers" src="../../../assets/destroyers-1.png" />
+            <div class="text-wrapper-6">Inti Martínez</div>
+            <div class="text-wrapper-7">Software Engineer / Technologist</div>
+            <div class="element-years-old">22&nbsp;&nbsp;Years Old</div>
+            <div class="text-wrapper-8">Mexican</div>
+          </div>
+          <div class="text-wrapper-2">Mexico / America TimeZone</div>
+          <div class="text-wrapper-3">+52 33 3971 9432</div>
+          <div class="text-wrapper-4">Inti Martínez</div>
+          <div class="text-wrapper-5">inti2001</div>
+
+          <p class="p">Guadalajara / Jalisco / México</p>
+          <p class="advanced-medium">
+            Advanced - Medium English<br />Spanish Native
+          </p>
+          <div class="text-wrapper-9">Skills</div>
+          <img class="line" src="../../../assets/line-1.svg" />
+          <div class="overlap-group">
+            <img class="img" src="../../../assets/line-7.svg" />
+            <img class="line-2" src="../../../assets/line-6.svg" />
+          </div>
+          <div class="overlap">
+            <img class="img" src="../../../assets/line-7.svg" />
+            <img class="img" src="../../../assets/line-8.svg" />
+          </div>
+          <p class="team-work">
+            Team Work.<br />Organizational skills.<br />Leadership.<br />Effective
+            Planning.<br />Relationships with Clients.<br />Attention to
+            detail.<br />Management of work teams.<br />Time management.<br />Communication
+            skills.<br />Supervising.<br />Delegating.<br />Professionalism.<br />Persuasion.<br />Creativity.
+          </p>
+          <p class="computing">
+            Computing.<br />Troubleshooting.<br />Technical knowledge.<br />Programming
+            / coding.<br />Software testing.<br />Database management.<br />Data
+            analysis.<br />Reporting.
+          </p>
+          <div class="text-wrapper-10">Hard</div>
+          <div class="text-wrapper-11">Soft</div>
+        </div>
+        <div *ngIf="resume" class="slide-in-bottom">
+          <app-professional></app-professional>
+        </div>
+        <div *ngIf="!resume" class="slide-in-bottom">
+          <app-AboutMe></app-AboutMe>
+        </div>
+        <div class="frame-wrapper">
+          <div class="frame-5" >
+            <button mat-button class="text-wrapper-42" (click)="showAbout()">About me</button>
+            <button mat-button class="text-wrapper-43" (click)="downloadCV()">Download CV</button>
+            <button mat-button class="text-wrapper-44" (click)="showResume()">Resume</button>
+            <button mat-button class="home-filled" (click)="redireccionarA('home')"><img src="../../../assets/home-filled.svg" /></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,572 @@
+.curriculum .frame-3 {
+    position: absolute;
+    width: 1444px;
+    height: 1024px;
+    top: 20px;
+    left: 710px;
+    background-color: #ffffff;
+  }
+  
+  .curriculum .frame-4 {
+    position: absolute;
+    width: 903px;
+    height: 845px;
+    top: 133px;
+    left: 21px;
+  }
+  
+  .curriculum .text-wrapper-12 {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #009d80;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .book-and-pencil {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 21px;
+    left: 17px;
+  }
+  
+  .curriculum .line-3 {
+    position: absolute;
+    width: 709px;
+    height: 2px;
+    top: 31px;
+    left: 194px;
+  }
+  
+  .curriculum .text-wrapper-13 {
+    position: absolute;
+    top: 71px;
+    left: 17px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-14 {
+    position: absolute;
+    top: 113px;
+    left: 17px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-15 {
+    position: absolute;
+    top: 113px;
+    left: 189px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-16 {
+    position: absolute;
+    top: 240px;
+    left: 136px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-17 {
+    position: absolute;
+    top: 113px;
+    left: 722px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-18 {
+    position: absolute;
+    top: 71px;
+    left: 452px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-19 {
+    position: absolute;
+    top: 95px;
+    left: 452px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-20 {
+    position: absolute;
+    top: 113px;
+    left: 452px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-21 {
+    position: absolute;
+    top: 95px;
+    left: 17px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-22 {
+    position: absolute;
+    top: 157px;
+    left: 59px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #009d80;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .line-4 {
+    position: absolute;
+    width: 709px;
+    height: 2px;
+    top: 169px;
+    left: 194px;
+  }
+  
+  .curriculum .line-5 {
+    position: absolute;
+    width: 684px;
+    height: 3px;
+    top: 295px;
+    left: 219px;
+  }
+  
+  .curriculum .line-6 {
+    position: absolute;
+    width: 607px;
+    height: 2px;
+    top: 484px;
+    left: 296px;
+  }
+  
+  .curriculum .text-wrapper-23 {
+    position: absolute;
+    top: 198px;
+    left: 17px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .business-center {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 148px;
+    left: 17px;
+  }
+  
+  .curriculum .text-wrapper-24 {
+    top: 240px;
+    left: 17px;
+    font-weight: 400;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter", Helvetica;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-25 {
+    position: absolute;
+    top: 222px;
+    left: 17px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-26 {
+    position: absolute;
+    top: 198px;
+    left: 452px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-27 {
+    position: absolute;
+    top: 222px;
+    left: 452px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-28 {
+    position: absolute;
+    top: 240px;
+    left: 452px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-29 {
+    position: absolute;
+    top: 285px;
+    left: 60px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #009d80;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .lightbulb {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 277px;
+    left: 17px;
+  }
+  
+  .curriculum .text-wrapper-30 {
+    top: 324px;
+    left: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    position: absolute;
+    font-family: "Inter", Helvetica;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-31 {
+    position: absolute;
+    top: 324px;
+    left: 749px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-32 {
+    position: absolute;
+    top: 324px;
+    left: 492px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-33 {
+    position: absolute;
+    top: 324px;
+    left: 235px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .angularjs {
+    position: absolute;
+    width: 74px;
+    top: 367px;
+    left: 20px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-34 {
+    position: absolute;
+    top: 348px;
+    left: 20px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-35 {
+    position: absolute;
+    top: 348px;
+    left: 123px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .nodejs-express {
+    position: absolute;
+    top: 367px;
+    left: 123px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-36 {
+    position: absolute;
+    top: 423px;
+    left: 19px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-37 {
+    left: 235px;
+    position: absolute;
+    top: 431px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-38 {
+    left: 493px;
+    position: absolute;
+    top: 431px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .javascript {
+    position: absolute;
+    top: 348px;
+    left: 235px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .windows-server {
+    position: absolute;
+    top: 348px;
+    left: 749px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .mongodb-firebase {
+    position: absolute;
+    top: 348px;
+    left: 493px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-39 {
+    position: absolute;
+    top: 473px;
+    left: 60px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #009d80;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .text-wrapper-40 {
+    position: absolute;
+    top: 623px;
+    left: 60px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #009d80;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .military-tech {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 618px;
+    left: 17px;
+  }
+  
+  .curriculum .text-wrapper-41 {
+    position: absolute;
+    width: 876px;
+    top: 536px;
+    left: 20px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .announcement {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 468px;
+    left: 17px;
+  }
+  
+  .curriculum .oracle-alura-next {
+    position: absolute;
+    top: 667px;
+    left: 27px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .curriculum .text-wrapper-42 {
+    position: absolute;
+    top: 623px;
+    left: 570px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #009d80;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .curriculum .reference {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 622px;
+    left: 535px;
+    color: #009d80;
+  }
+
+  .curriculum .reference1{
+    position: absolute;
+    top: 667px;
+    left: 535px;
+  }
+
+  .curriculum .reference2{
+    position: absolute;
+    top: 765px;
+    left: 535px;
+  }
