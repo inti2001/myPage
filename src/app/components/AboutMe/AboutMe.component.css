@@ -22,23 +22,13 @@
     left: 0;
   }
   
-  .frame .rectangle {
-    position: absolute;
-    width: 252px;
-    height: 271px;
-    top: 0;
-    left: 448px;
-    border-radius: 25px;
-    background-color: #a3bbb6;
-    box-shadow: 10px 10px 19.2px 1px #d1d1d1;
-  }
-  
   .frame .img {
     position: absolute;
-    width: 200px;
-    height: 200px;
-    top: 29px;
-    left: 474px;
+    width: 260px;
+    height: 260px;
+    top: 30px;
+    left: 469px;
+    border-radius: 25px;
     object-fit: cover;
   }
   
