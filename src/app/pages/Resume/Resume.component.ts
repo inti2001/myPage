@@ -29,5 +29,14 @@ export class ResumeComponent implements OnInit {
 
   downloadCV(){
     console.log("descargar CV");
+    const urlArchivo = '../../../assets/Inti_Martinez_Resume.pdf';
+
+    const enlaceDescarga = document.createElement('a');
+    enlaceDescarga.href = urlArchivo;
+    enlaceDescarga.download = 'Inti_Martinez_Resume.pdf';
+    document.body.appendChild(enlaceDescarga);
+    enlaceDescarga.click();
+
+    document.body.removeChild(enlaceDescarga);
   }
 }
