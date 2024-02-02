@@ -17,14 +17,15 @@
   .curriculum .frame {
     position: absolute;
     width: 477px;
-    height: 1026px;
+    height: 1400px;
     top: -1px;
     left: -1px;
     background-color: #51bda3;
-    border: 1px solid;
-    border-color: transparent;
-    border-image: linear-gradient(to bottom, rgb(83.54, 196.56, 169.44), rgba(255, 255, 255, 0)) 1;
   }
+
+
+
+
   
   .curriculum .email {
     position: absolute;
@@ -88,6 +89,10 @@
     left: 34px;
     animation: slide-in-bottom 1s ease-out both;
   }
+
+
+
+
   
   .curriculum .advanced-medium {
     position: absolute;
@@ -174,7 +179,7 @@
   
   .curriculum .frame-2 {
     position: absolute;
-    width: 478px;
+    width: 477px;
     height: 309px;
     top: 0;
     left: 0;
@@ -367,7 +372,7 @@
     width: 1444px;
     height: 109px;
     top: 0;
-    left: 478px;
+    left: 476px;
     background-color: #515151;
   }
   
@@ -466,5 +471,328 @@
     100% {
       transform: translateY(0);
       opacity: 1;
+    }
+  }
+
+
+
+
+
+  @media screen and (max-width: 1700px){ /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    .curriculum .frame, .curriculum .frame-2 {
+      width: 450px;
+    }
+    .curriculum .frame-wrapper {
+      left: 450px;
+    }
+
+    .curriculum .email, .curriculum .phone, .curriculum .facebook, .curriculum .git-hub, .curriculum .clock, .curriculum .earth-planet, .curriculum .earth-planet, .curriculum .language-skill {
+      width: 27px;
+      height: 27px;
+    }
+
+  }
+
+  @media screen and (max-width: 1500px){ /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    .curriculum .frame{
+      width: 400px;
+    }
+
+    .curriculum .frame-2{
+      width: 400px;
+    }
+
+    .curriculum .frame-wrapper {
+      left: 400px;
+    }
+
+    .curriculum .email, .curriculum .phone, .curriculum .facebook, .curriculum .git-hub, .curriculum .clock, .curriculum .earth-planet, .curriculum .earth-planet, .curriculum .language-skill {
+      width: 25px;
+      height: 25px;
+    }
+
+    .curriculum .destroyers{
+      width: 125px;
+      height: 125px;
+      top: 55px;
+      left: 150px;
+    }
+    .curriculum .text-wrapper-6{
+      top: 190px;
+      left: 135px;
+      font-size: 24px;
+    }
+    .curriculum .text-wrapper-7{
+      top: 230px;
+      left: 95px;
+      font-size: 13px;
+    }
+    .curriculum .text-wrapper-8{
+      top: 250px;
+      left: 95px;
+      font-size: 13px;
+    }
+    .curriculum .element-years-old{
+      top: 270px;
+      left: 95px;
+      font-size: 13px;
+    }
+
+    .curriculum .text-wrapper, .curriculum .text-wrapper-2, .curriculum .text-wrapper-3, .curriculum .text-wrapper-4, .curriculum .text-wrapper-5, .curriculum .p, .curriculum .advanced-medium{
+      font-size: 14px;
+      left: 70px;
+    }
+
+    .curriculum .img, .curriculum .line-2 {
+      left: -50px;
+    }
+
+    .curriculum .line{
+      width: 250px;
+    }
+
+    .curriculum .team-work{
+      left: 200px;
+      font-size: 12px;
+    }
+
+    .curriculum .computing{
+      font-size: 12px;
+    }
+
+    .curriculum .text-wrapper-11{
+      left: 200px;
+    }
+
+  }
+
+  @media screen and (max-width: 1400px){ /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    .curriculum .frame, .curriculum .frame-2 {
+      width: 370px;
+    }
+    .curriculum .frame-wrapper {
+      left: 370px;
+    }
+
+    .curriculum .email, .curriculum .phone, .curriculum .facebook, .curriculum .git-hub, .curriculum .clock, .curriculum .earth-planet, .curriculum .earth-planet, .curriculum .language-skill {
+      width: 22px;
+      height: 22px;
+    }
+
+    .curriculum .destroyers{
+      top: 55px;
+      left: 125px;
+    }
+
+    .curriculum .text-wrapper-6{
+      top: 190px;
+      left: 110px;
+    }
+    .curriculum .text-wrapper-7{
+      top: 230px;
+      left: 70px;
+    }
+    .curriculum .text-wrapper-8{
+      top: 250px;
+      left: 70px;
+    }
+    .curriculum .element-years-old{
+      top: 270px;
+      left: 70px;
+    }
+
+    .curriculum .img, .curriculum .line-2 {
+      left: -70px;
+    }
+
+    .curriculum .line{
+      width: 220px;
+    }
+  }
+
+  @media screen and (max-width: 1325px){
+    .curriculum .div{
+      height: 1300px;
+    }
+
+    .curriculum .img, .curriculum .line-2 {
+      top: 50px;
+      left: -180px;
+    }
+
+    .curriculum .line{
+      width: 250px;
+    }
+  }
+
+  @media screen and (max-width: 992px){ /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    .curriculum .frame, .curriculum .frame-2 {
+      width: 320px;
+    }
+    .curriculum .frame-wrapper {
+      left: 320px;
+    }
+
+    .curriculum .email, .curriculum .phone, .curriculum .facebook, .curriculum .git-hub, .curriculum .clock, .curriculum .earth-planet, .curriculum .earth-planet, .curriculum .language-skill {
+      width: 20px;
+      height: 20px;
+    }
+
+    .curriculum .destroyers{
+      top: 55px;
+      left: 105px;
+    }
+
+    .curriculum .text-wrapper-6{
+      top: 190px;
+      left: 75px;
+    }
+    .curriculum .text-wrapper-7{
+      top: 230px;
+      left: 45px;
+    }
+    .curriculum .text-wrapper-8{
+      top: 250px;
+      left: 45px;
+    }
+    .curriculum .element-years-old{
+      top: 270px;
+      left: 45px;
+    }
+
+    .curriculum .img, .curriculum .line-2 {
+      top: 50px;
+      left: -210px;
+    }
+    .curriculum .line{
+      width: 180px;
+    }
+
+    .curriculum .team-work{
+      left: 34px;
+      top: 950px;
+      font-size: 13px;
+    }
+
+    .curriculum .computing{
+      font-size: 13px;
+    }
+
+    .curriculum .text-wrapper-11{
+      left: 34px;
+      top: 925px;
+    }
+
+    .curriculum .text-wrapper-9{
+      font-size: 20px;
+    }
+
+  }
+
+  @media screen and (max-width: 768px){ /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    .curriculum .frame, .curriculum .frame-2 {
+      width: 280px;
+    }
+    .curriculum .frame-wrapper {
+      left: 280px;
+    }
+
+    .curriculum .email, .curriculum .phone, .curriculum .facebook, .curriculum .git-hub, .curriculum .clock, .curriculum .earth-planet, .curriculum .earth-planet, .curriculum .language-skill {
+      width: 19px;
+      height: 19px;
+    }
+    .curriculum .line{
+      width: 140px;
+    }
+
+    .curriculum .text-wrapper, .curriculum .text-wrapper-2, .curriculum .text-wrapper-3, .curriculum .text-wrapper-4, .curriculum .text-wrapper-5, .curriculum .p, .curriculum .advanced-medium{
+      font-size: 12px;
+      left: 70px;
+    }
+
+    .curriculum .destroyers{
+      top: 55px;
+      left: 85px;
+    }
+
+    .curriculum .text-wrapper-6{
+      top: 190px;
+      left: 75px;
+    }
+    .curriculum .text-wrapper-7{
+      top: 230px;
+      left: 40px;
+    }
+    .curriculum .text-wrapper-8{
+      top: 250px;
+      left: 40px;
+    }
+    .curriculum .element-years-old{
+      top: 270px;
+      left: 40px;
+    }
+
+    .curriculum .text-wrapper-42{
+      left: 150px;
+      font-size: 13px;
+    }
+    .curriculum .text-wrapper-43{
+      left: 50px;
+      font-size: 13px;
+    }
+    .curriculum .text-wrapper-44{
+      left: 225px;
+      font-size: 13px;
+    }
+    .curriculum .home-filled img{
+      left: 0px;
+      width: 25px;
+      height: 25px;
+    }
+  }
+
+  @media screen and (max-width: 576px){ /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    .curriculum .frame, .curriculum .frame-2 {
+      width: 250px;
+    }
+    .curriculum .frame-wrapper {
+      left: 250px;
+    }
+
+    .curriculum .email, .curriculum .phone, .curriculum .facebook, .curriculum .git-hub, .curriculum .clock, .curriculum .earth-planet, .curriculum .earth-planet, .curriculum .language-skill {
+      width: 18px;
+      height: 18px;
+    }
+    .curriculum .line{
+      width: 110px;
+    }
+
+    .curriculum .text-wrapper, .curriculum .text-wrapper-2, .curriculum .text-wrapper-3, .curriculum .text-wrapper-4, .curriculum .text-wrapper-5, .curriculum .p, .curriculum .advanced-medium{
+      font-size: 10px;
+      left: 70px;
+    }
+
+    .curriculum .destroyers{
+      width: 120px;
+      height: 120px;
+      top: 55px;
+      left: 65px;
+    }
+
+    .curriculum .text-wrapper-6{
+      top: 190px;
+      left: 55px;
+    }
+    .curriculum .text-wrapper-7{
+      top: 230px;
+      left: 20px;
+    }
+    .curriculum .text-wrapper-8{
+      top: 250px;
+      left: 20px;
+    }
+    .curriculum .element-years-old{
+      top: 270px;
+      left: 20px;
     }
   }

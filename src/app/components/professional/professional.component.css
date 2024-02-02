@@ -570,3 +570,301 @@
     top: 765px;
     left: 535px;
   }
+
+
+  @media screen and (max-width: 1700px){
+    .curriculum .frame-3 {
+      left: 550px;
+    }
+  }
+
+  @media screen and (max-width: 1500px){
+    .curriculum .frame-3 {
+      left: 450px;
+    }
+
+
+  }
+
+  @media screen and (max-width: 1400px){
+    .curriculum .frame-3 {
+      left: 400px;
+    }
+  }
+
+  @media screen and (max-width: 1325px){
+    .curriculum .frame-3 {
+      left: 480px;
+    }
+
+    .curriculum .line-3, .curriculum .line-4{
+      width: 240px;
+      top: 210px;
+      left: 190px;
+    }
+
+    .curriculum .line-5{
+      left: 200px;
+      width: 230px;
+      top: 360px;
+    }
+
+    .curriculum .line-6{
+      width: 180px;
+      top: 680px;
+      left: 260px;
+    }
+
+
+    .curriculum .text-wrapper-42{
+      top: 880px;
+      left: 60px;
+      font-size: 17px;
+    }
+
+    .curriculum .reference{
+      top: 880px;
+      left: 28px;
+      width: 30px;
+      height: 30px;
+    }
+
+    .curriculum .reference1{
+      top: 910px;
+      left: 30px;
+    }
+    .curriculum .reference2{
+      top: 1000px;
+      left: 30px;
+    }
+
+    .curriculum .military-tech{
+      width: 30px;
+      height: 30px;
+      top: 785px;
+      left: 26px;
+    }
+
+    .curriculum .text-wrapper-40{
+      font-size: 17px;
+      top: 790px;
+    }
+
+    .curriculum .oracle-alura-next{
+      font-size: 13px;
+      top: 820px;
+    }
+
+    .curriculum .text-wrapper-41{
+      width: 400px;
+      font-size: 12px;
+      top: 700px;
+      left: 28px;
+    }
+
+    .curriculum .text-wrapper-39{
+      font-size: 17px;
+      top: 670px;
+    }
+
+    .curriculum .announcement{
+      width: 30px;
+      height: 30px;
+      top: 665px;
+      left: 26px;
+    }
+
+    .curriculum .text-wrapper-31{
+      left: 30px;
+      top: 510px;
+    }
+
+    .curriculum .windows-server{
+      left: 30px;
+      top: 540px;
+    }
+
+    .curriculum .text-wrapper-38{
+      left: 230px;
+      top: 640px;
+    }
+
+    .curriculum .text-wrapper-32{
+      left: 230px;
+      top: 510px;
+    }
+
+    .curriculum .mongodb-firebase{
+      top: 540px;
+      left:230px
+    }
+
+    .curriculum .text-wrapper-36{
+      left: 30px;
+      top: 480px;
+    }
+    .curriculum .text-wrapper-37{
+      left: 230px;
+      top: 480px;
+    }
+
+    .curriculum .text-wrapper-30{
+      left: 30px;
+      top: 380px;
+    }
+
+    .curriculum .text-wrapper-34{
+      left: 30px;
+      top: 410px;
+    }
+
+    .curriculum .angularjs{
+      left: 30px;
+      top: 430px;
+    }
+
+    .curriculum .nodejs-express{
+      top: 430px;
+    }
+    .curriculum .text-wrapper-35{
+      top: 410px;
+    }
+
+    .curriculum .text-wrapper-33{
+      top: 380px;
+      left: 230px;
+    }
+
+    .curriculum .javascript{
+      top: 410px;
+      left: 230px;
+    }
+
+    .curriculum .text-wrapper-29{
+      font-size: 17px;
+      top: 350px;
+    }
+
+    .curriculum .lightbulb{
+      width: 30px;
+      height: 30px;
+      left: 27px;
+      top:343px;
+    }
+
+    .curriculum .text-wrapper-26{
+      left: 30px;
+      top: 285px;
+      font-size: 15px;
+    }
+
+    .curriculum .text-wrapper-27{
+      left: 30px;
+      top: 305px;
+      font-size: 12px;
+    }
+    .curriculum .text-wrapper-28{
+      left: 30px;
+      top: 323px;
+      font-size: 12px;
+    }
+
+    .curriculum .text-wrapper-23{
+      left: 30px;
+      font-size: 15px;
+      top: 225px;
+    }
+    .curriculum .text-wrapper-25{
+      left: 30px;
+      font-size: 12px;
+      top: 243px;
+    }
+    .curriculum .text-wrapper-24{
+      left: 30px;
+      font-size: 12px;
+      top: 260px;
+    }
+    .curriculum .text-wrapper-16{
+      left: 150px;
+      font-size: 12px;
+      top: 260px;
+    }
+
+    .curriculum .business-center{
+      left: 30px;
+      top: 190px;
+      height: 30px;
+      width: 30px;
+    }
+
+    .curriculum .text-wrapper-22{
+      left: 70px;
+      font-size: 17px;
+      top: 200px;
+    }
+
+    .curriculum .text-wrapper-12{
+      font-size: 17px;
+      left: 70px;
+    }
+
+    .curriculum .book-and-pencil{
+      width: 30px;
+      height: 30px;
+      left: 30px;
+    }
+
+    .curriculum .text-wrapper-13{
+      left: 30px;
+      top: 60px;
+      font-size: 15px;
+    }
+    .curriculum .text-wrapper-14{
+      left: 30px;
+      top: 95px;
+    }
+    .curriculum .text-wrapper-15{
+      left: 220px;
+      top: 95px;
+    }
+    .curriculum .text-wrapper-21{
+      left: 30px;
+      top: 80px;
+    }
+
+    .curriculum .text-wrapper-18{
+      left: 30px;
+      top: 125px;
+      font-size: 15px;
+    }
+    .curriculum .text-wrapper-19{
+      left: 30px;
+      top: 145px;
+    }
+    .curriculum .text-wrapper-20{
+      left: 30px;
+      top: 160px;
+    }
+    .curriculum .text-wrapper-17{
+      left: 310px;
+      top: 160px;
+    }
+  }
+
+  @media screen and (max-width: 992px){
+    .curriculum .frame-3 {
+      left: 320px;
+    }
+  }
+
+  @media screen and (max-width: 768px){
+    .curriculum .frame-3 {
+      left: 280px;
+    }
+  }
+
+  @media screen and (max-width: 576px){
+    .curriculum .frame-3 {
+      left: 250px;
+    }
+  }
