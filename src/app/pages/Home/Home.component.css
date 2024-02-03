@@ -38,3 +38,85 @@ body {
       transform-origin: top;
     }
   }
+
+
+  @media screen and (max-width: 1400px){
+    .p{
+      font-size: 25px;
+    }
+    .btn{
+      width: 40%;
+      font-size: small;
+    }
+  }
+
+  @media screen and (max-width: 1080px){
+    .p{
+      font-size: 23px;
+    }
+    .btn{
+      width: 44%;
+    }
+  }
+
+  @media screen and (max-width: 990px){
+    .p{
+      font-size: 21px;
+    }
+    .btn{
+      width: 50%;
+      font-size: x-small;
+    }
+  }
+
+  @media screen and (max-width: 905px){
+    .p{
+      font-size: 18px;
+    }
+    .btn{
+      width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 777px){
+    .p{
+      font-size: 15px;
+    }
+  }
+
+  @media screen and (max-width: 650px){
+    .p{
+      font-size: 14px;
+    }
+    .btn{
+      font-size: xx-small;
+      width: 70%;
+    }
+  }
+
+  @media screen and (max-width: 439px){
+    .p{
+      font-size: 12px;
+    }
+  }
+
+  @media screen and (max-width: 351px){
+    .p{
+      font-size: 10px;
+    }
+    .btn{
+      width: 80%;
+    }
+  }
+
+  @media screen and (max-width: 308px){
+    .btn{
+      width: 90%;
+    }
+  }
+
+  @media screen and (max-width: 308px){
+    .btn{
+      width: 100%;
+    }
+  }

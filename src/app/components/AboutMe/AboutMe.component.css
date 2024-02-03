@@ -365,3 +365,220 @@
     top: 393px;
     left: 155px;
   }
+
+
+
+  @media screen and (max-width: 1700px){
+    .frame{
+      left: 550px;
+    }
+
+  }
+
+  @media screen and (max-width: 1500px){
+    .frame{
+      left: 450px;
+    }
+  }
+
+  @media screen and (max-width: 1400px){
+    .frame{
+      left: 420px;
+    }
+  }
+
+  @media screen and (max-width: 1325px){
+    .frame{
+      left: 550px;
+    }
+
+    .frame .overlap-11{
+      top: 830px;
+      left: 35px;
+    }
+
+    .frame .overlap-6{
+      left: 320px;
+      top: 820px;
+    }
+
+    .frame .overlap-7, .frame .overlap-9{
+      left: 320px;
+    }
+
+    .frame .line{
+      width: 360px;
+      left: 200px
+    }
+
+    .frame .img{
+      top: 38px;
+      left:140px;
+      width: 200px;
+      height: 200px;
+    }
+
+    .frame .text-wrapper{
+      top: 220px;
+      left: 10px;
+    }
+    .frame .div{
+      top: 200px;
+      left: 0px;
+    }
+
+    .frame .vector, .frame .text-wrapper-2{
+      top: 0px;
+    }
+  }
+
+  @media screen and (max-width: 1250px){
+  
+    .frame{
+      left: 500px;
+    }
+  }
+
+  @media screen and (max-width: 1110px){
+  
+    .frame{
+      left: 450px;
+    }
+  }
+
+  @media screen and (max-width: 992px){
+  
+    .frame{
+      left: 350px;
+    }
+
+    .frame .overlap-4{
+      top: 500px;
+      left: 110px;
+    }
+
+    .frame .overlap-2{
+      top: 370px;
+      left: 110px;
+    }
+
+    .frame .overlap-11{
+      top: 630px;
+      left: 110px;
+    }
+
+    .frame .overlap-9{
+      left: 110px;
+      top: 760px;
+    }
+
+    .frame .overlap-7{
+      left: 110px;
+      top: 890px;
+    }
+
+    .frame .overlap-6{
+      left: 110px;
+      top: 1005px;
+    }
+
+    .frame .line{
+      width: 0px;
+      left: 200px
+    }
+
+    .frame .img{
+      top: 38px;
+      left:120px;
+      width: 140px;
+      height: 140px;
+    }
+
+    .frame .text-wrapper{
+      top: 170px;
+      left: 40px;
+      width: 300px;
+      font-size: 12px;
+    }
+    .frame .div{
+      top: 150px;
+      left: 0px;
+    }
+
+    .frame .vector{
+      top: 0px;
+      width: 25px;
+      height: 25px;
+      left: 70px;
+    }
+
+    .frame .text-wrapper-2{
+      top: 0px;
+      font-size: 21px;
+      left: 110px;
+    }
+
+    .frame .text-wrapper-3{
+      top: 330px;
+      font-size: 21px;
+      left: 110px;
+    }
+  }
+
+  @media screen and (max-width: 800px){
+    .frame{
+      left: 300px;
+    }
+  }
+
+  @media screen and (max-width: 750px){
+    .frame{
+      left: 250px;
+    }
+  }
+
+  @media screen and (max-width: 680px){
+    .frame{
+      left: 200px;
+    }
+
+    .frame .div{
+      left: 50px;
+    }
+    
+    .frame .img{
+      top: 38px;
+      left:80px;
+      width: 140px;
+      height: 140px;
+    }
+
+    .frame .text-wrapper{
+      top: 170px;
+      left: 30px;
+      width: 250px;
+      font-size: 10px;
+    }
+
+
+    .frame .vector{
+      top: 0px;
+      width: 20px;
+      height: 20px;
+      left: 50px;
+    }
+
+    .frame .text-wrapper-2{
+      top: 0px;
+      font-size: 19px;
+      left: 80px;
+    }
+    .frame .text-wrapper-3{
+      font-size: 19px;
+    }
+  }
+  @media screen and (max-width: 576px){
+    .frame{
+      left: 160px;
+    }
+  }
